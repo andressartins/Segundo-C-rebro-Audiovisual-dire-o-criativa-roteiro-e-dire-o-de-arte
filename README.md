@@ -1,52 +1,106 @@
 Meu segundo cérebro audiovisual
 
-Projeto da DIO | Caderno no NotebookLM
-Sou aluna de um bootcamp e montei este caderno para apoiar meu projeto audiovisual. Reuni materiais dos cursos de Produção Audiovisual, Fotografia e Edição de Vídeo, além de guias de direção de arte que baixei. Coloquei os arquivos no NotebookLM para consultar quando surgir uma dúvida ou uma ideia para desenvolver.
-Quero usar esse material em várias etapas: documentários e roteiros, decupagem, fotografia, luz, enquadramento, direção de arte, gravação e edição.
-Fontes que usei
-Carreguei 11 PDFs. Abaixo estão cinco referências que escolhi para apresentar o projeto. Os outros arquivos também ficam no notebook como apoio.
-Código	Arquivo ou referência	Para que consulto
-C1	Apostila do curso Produção Audiovisual — IFG/ESCULT. Arquivos: Material de Estudo - Apostila Completa em PDF_compressed.pdf e Material de Estudo - Apostila Completa em PDF(2).pdf. Página do curso.	Para entender etapas como planejamento, gravação e edição.
-C2	Material do curso de Fotografia: fot2-v2-completo-DEFESO (1).pdf.	Para consultar luz e organização da imagem. Estou estudando termos como enquadramento e composição.
-C3	Hugo Moss, Como Formatar O Seu Roteiro: como-formatar-o-seu-roteiro-de-hugo-moss.pdf. PDF.	Para ver exemplos de como organizar e apresentar um roteiro.
-C4	Isadora Sabbi Dias, Métodos e processos na direção de arte: uma pesquisa-ação do Projeto Editorial de Moda Silver Fever, UNILA, 2025. Registro · PDF.	Para ver como as escolhas visuais de um projeto foram pensadas e realizadas.
-C5	Thiago Pontes Virginio, A construção da decupagem e o papel do diretor na pré-produção de um cinema à luz do desenho universal, UFPB, 2023. Arquivo: TPV12072023.pdf. Registro · PDF.	Para entender como planejar o que será filmado antes da gravação e pensar em acessibilidade.
+Caderno temático no NotebookLM para apoiar meu projeto audiovisual, do roteiro à edição. Projeto do desafio da DIO sobre IA como ferramenta de aprendizagem ativa.
 
+1. Contexto e objetivos
 
-Também carreguei estes arquivos:
-- E-bookFormatac_a_o.pdf — material de formatação de roteiro; a capa informa que é exclusivo para alunos.
-- 609766012011.pdf — artigo de Maria Dora Genis Mourão, A montagem cinematográfica como ato criativo. Artigo.
-- PPC_direção_de_arte.pdf — documento que apresenta a estrutura do curso de Direção de Arte da UFG.
-- Planejamento_Visual-Grafico.pdf — material de Breno Brito sobre planejamento visual gráfico.
-- 4 - DIRECAO DE ARTE.pdf — apresentação de aula sobre direção de arte, identificada com o nome Álvaro Melo Filho.
-No repositório, vou deixar as referências e os links públicos, sem disponibilizar PDFs de cursos ou materiais fechados.
-Perguntas que testei no NotebookLM
-No desafio, essas perguntas e instruções são chamadas de prompts.
-Pergunta	O que aconteceu
-“Me fale sobre decupagem de arte.”	A resposta ficou genérica. Para melhorar, preciso explicar a cena e pedir o formato que quero, como uma tabela.
-“Pedi um modelo para organizar a decupagem e a direção de arte.”	A resposta sugeriu um modelo com cena, câmera, elementos visuais e orçamento. Vou conferir e adaptar ao meu projeto.
-“O que é a montagem intelectual?”	Minhas anotações dizem que a resposta relacionou o assunto a um cineasta e trouxe exemplos. Quero rever a resposta e guardar a fonte.
-“Escrever um roteiro para gravar vídeo na cidade de Belo Horizonte...”	A resposta criou uma ideia ficcional na Praça da Liberdade e no Viaduto Santa Tereza. Preciso deixar claro quando uma sugestão é inventada e conferir os detalhes antes de usar.
+Sou aluna de um bootcamp e montei este caderno para apoiar meu projeto audiovisual. Reuni materiais dos cursos de Produção Audiovisual, Fotografia e Edição de Vídeo, além de guias de direção de arte, e os coloquei no NotebookLM para consultar quando surgir uma dúvida ou uma ideia para desenvolver.
 
+Assunto escolhido: produção audiovisual, do documentário e do roteiro até a edição.
 
-O que precisei ajustar
-- Perguntas muito abertas trouxeram respostas genéricas; pedir uma tabela ou um passo a passo ajudou.
-- Em uma sugestão de roteiro, apareceram pensamentos que não poderiam ser vistos ou ouvidos. Preciso pensar em como mostrar isso em imagem ou som.
-- A IA abriu uma cena nova para cada cômodo. Na próxima tentativa, vou explicar o padrão de roteiro que estou usando.
-- Quero guardar as citações do NotebookLM junto das respostas para conferir de onde veio cada informação.
-Miniguia de estudo
-- Ideia e roteiro: começar pelo assunto e pelas perguntas que quero investigar. A apostila mostra algumas etapas para desenvolver uma história. [C1]
-- Planejamento da gravação: pensar no que quero filmar, nos sons e no que preciso preparar antes. [C5]
-- Fotografia: observar a luz e decidir o que quero mostrar na imagem. [C2]
-- Parte visual: pensar nos espaços, objetos, roupas e cores que aparecem no projeto. [C4]
-- Edição: escolher os trechos e colocá-los em ordem. A apostila e o artigo de Mourão ajudam a pensar nessas escolhas. [C1 e artigo complementar]
-Um modelo simples para começar uma decupagem:
+Objetivos de estudo
+
+Consultar rapidamente, com fonte, conceitos de roteiro, decupagem, fotografia, luz, enquadramento, direção de arte, gravação e edição.
+Aprender a fazer perguntas melhores à IA e a conferir cada resposta nas fontes.
+Montar um miniguia reutilizável (resumos, glossário e prompts) para revisar o tema e planejar as próximas gravações.
+2. Curadoria de fontes
+
+Carreguei 11 PDFs no NotebookLM. Abaixo estão as 5 referências escolhidas para apresentar o projeto; os outros arquivos ficam no notebook como apoio.
+
+Código	Referência	Para que consulto
+C1	Apostila do curso Produção Audiovisual (IFG/ESCULT). Arquivos: Material de Estudo - Apostila Completa em PDF_compressed.pdf e Material de Estudo - Apostila Completa em PDF(2).pdf. Página do curso	Etapas de planejamento, gravação e edição.
+C2	Material do curso de Fotografia: fot2-v2-completo-DEFESO (1).pdf. Link	Luz e organização da imagem; enquadramento e composição.
+C3	Hugo Moss, Como Formatar O Seu Roteiro. PDF	Exemplos de como organizar e apresentar um roteiro.
+C4	Isadora Sabbi Dias, Métodos e processos na direção de arte: uma pesquisa-ação do Projeto Editorial de Moda Silver Fever, UNILA, 2025. Registro · PDF	Como as escolhas visuais de um projeto foram pensadas e realizadas.
+C5	Thiago Pontes Virginio, A construção da decupagem e o papel do diretor na pré-produção de um cinema à luz do desenho universal, UFPB, 2023 (TPV12072023.pdf). Registro · PDF	Planejar o que será filmado antes da gravação e pensar em acessibilidade.
+
+Fontes de apoio no notebook (não listadas acima):
+
+MOURÃO, Maria Dora Genis. A montagem cinematográfica como ato criativo. Significação: Revista de Cultura Audiovisual, 2006 (609766012011.pdf).
+BRITO, Breno. Planejamento Visual Gráfico, 2011 (Planejamento_Visual-Grafico.pdf).
+Projeto pedagógico do curso de Direção de Arte, UFG (PPC_direção_de_arte.pdf).
+Apresentação de aula sobre direção de arte, Álvaro Melo Filho (4 - DIRECAO DE ARTE.pdf; o slide se identifica como "3 - DIRECAO DE ARTE").
+Material de formatação de roteiro (E-bookFormatac_a_o.pdf), com capa indicando uso exclusivo para alunos.
+
+Sobre direitos autorais: este repositório traz apenas referências e links públicos. Não disponibilizo PDFs de cursos nem materiais fechados.
+
+3. Engenharia de prompts e "cicatrizes"
+
+Neste desafio, as perguntas e instruções feitas à IA são chamadas de prompts.
+
+3.1 Prompts testados
+#	Prompt	O que aconteceu	Variação para testar
+1	"Me fale sobre decupagem de arte."	Resposta genérica.	"Explique decupagem de arte para a cena [X]. Responda em tabela e cite as fontes."
+2	Pedi um modelo para organizar a decupagem e a direção de arte.	Sugeriu um modelo com cena, câmera, elementos visuais e orçamento. Vou conferir e adaptar ao meu projeto.	"Adapte o modelo para um curta de baixo orçamento, sem coluna de orçamento."
+3	"O que é a montagem intelectual?"	Segundo minhas anotações, a resposta relacionou o assunto a um cineasta e trouxe exemplos. Preciso rever e guardar a fonte.	"O que é montagem intelectual? Cite apenas o que está nas fontes e diga em qual arquivo aparece."
+4	"Escrever um roteiro para gravar vídeo na cidade de Belo Horizonte..."	Criou uma ideia ficcional na Praça da Liberdade e no Viaduto Santa Tereza.	"Escreva a cena usando o formato de roteiro do Hugo Moss (C3). Não invente dados sobre os locais; marque o que for sugestão."
+3.2 Troubleshooting (as cicatrizes)
+Problema	Como resolvi ou vou resolver
+Perguntas muito abertas trouxeram respostas genéricas.	Explicar a cena e pedir um formato (tabela ou passo a passo).
+No roteiro sugerido, apareceram pensamentos que não poderiam ser vistos ou ouvidos.	Pensar em como mostrar isso em imagem ou som (ação, expressão, voz em off) e pedir isso no prompt.
+A IA abriu uma cena nova para cada cômodo.	Informar o padrão de roteiro que uso e quando uma nova cena deve começar.
+A IA misturou sugestão inventada com informação factual.	Pedir que marque o que é sugestão e conferir detalhes dos locais antes de usar.
+Difícil saber de onde veio cada informação.	Guardar as citações do NotebookLM junto de cada resposta.
+
+Registro das respostas: (a preencher: cole aqui um trecho curto de cada resposta e a citação indicada pelo NotebookLM)
+
+4. Miniguia de estudo (entrega final)
+4.1 Resumo estruturado
+Etapa	Resumo	Fonte
+Ideia e roteiro	Começar pelo assunto e pelas perguntas que quero investigar. A apostila mostra etapas para desenvolver uma história.	C1
+Planejamento da gravação	Pensar no que filmar, nos sons e no que preparar antes.	C5
+Fotografia	Observar a luz e decidir o que mostrar na imagem.	C2
+Parte visual	Pensar nos espaços, objetos, roupas e cores do projeto.	C4
+Edição	Escolher os trechos e colocá-los em ordem.	C1 e Mourão (2006)
+
+Modelo simples de decupagem
+
 Cena/plano	O que quero mostrar	Enquadramento	Luz	Arte	Som	O que preparar
 preencher	preencher	preencher	preencher	cenário e objetos	fala e som ambiente	local e equipamento
+4.2 Glossário
 
-Referências complementares
-- MOURÃO, Maria Dora Genis. A montagem cinematográfica como ato criativo. Significação: Revista de Cultura Audiovisual, 2006. Artigo.
-- E-bookFormatac_a_o.pdf. Material de formatação de roteiro, exclusivo para alunos conforme informação na capa.
-- PPC_direção_de_arte.pdf. Projeto pedagógico do curso de Direção de Arte, UFG.
-- BRITO, Breno. Planejamento Visual Gráfico, 2011. Arquivo: Planejamento_Visual-Grafico.pdf.
-- 4 - DIRECAO DE ARTE.pdf. Apresentação de aula identificada como “3 - DIRECAO DE ARTE”, Álvaro Melo Filho.
+Definições em palavras simples, do que entendi até agora. Vou completá-las conforme estudar.
+
+Termo	Em palavras simples
+Acessibilidade	Pensar em formas para que pessoas diferentes consigam acompanhar o vídeo.
+Argumento	Texto que conta a história com mais detalhes antes do roteiro.
+Composição	Como pessoas e objetos ficam organizados na imagem.
+Decupagem	Planejar como uma cena será filmada e o que precisa aparecer e ser ouvido.
+Direção de arte	Escolher como aparecem os espaços, objetos, roupas e cores do projeto.
+Enquadramento	O que aparece dentro da imagem da câmera.
+Escaleta	Lista das cenas na ordem da história.
+Montagem	Escolher e juntar trechos de imagem e som para formar o vídeo.
+Plano	Trecho filmado sem corte.
+Pós-produção	O que é feito depois da gravação, como editar e finalizar o vídeo.
+Pré-produção	A preparação antes de gravar.
+Storyline	Resumo bem curto da história.
+4.3 Prompts reutilizáveis
+Estudar um assunto
+
+Explique [assunto] com base nos arquivos do meu caderno. Mostre de qual fonte tirou a resposta.
+
+Desenvolver um documentário
+
+Quero fazer um documentário sobre [tema]. Ajude-me a organizar perguntas de pesquisa e possíveis caminhos. Pergunte antes de completar o que não contei.
+
+Planejar uma cena
+
+Monte uma tabela de decupagem para esta cena, com enquadramento, luz, arte, som e o que preciso preparar: [cena].
+
+Pensar a fotografia
+
+Vou gravar [cena], em [local e horário], com [equipamento]. Sugira opções de luz e enquadramento e explique o efeito de cada uma.
+
+Revisar estudando
+
+Faça uma pergunta por vez sobre [assunto]. Espere minha resposta e depois me ajude a conferir com as fontes.
