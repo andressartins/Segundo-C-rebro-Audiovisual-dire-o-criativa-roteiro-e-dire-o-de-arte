@@ -1,4 +1,4 @@
-# Meu segundo cérebro audiovisual 🧠🎥
+# Meu segundo cérebro audiovisual 
 
 **Caderno temático no NotebookLM para apoiar meu projeto audiovisual, do roteiro à edição.**
 *Projeto do desafio da DIO sobre IA como ferramenta de aprendizagem ativa.*
