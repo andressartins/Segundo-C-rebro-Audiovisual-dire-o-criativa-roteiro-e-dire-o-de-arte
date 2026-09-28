@@ -37,7 +37,6 @@ Carreguei 11 PDFs no NotebookLM. Abaixo estão as 5 referências principais esco
 - Apresentação de aula sobre direção de arte, Álvaro Melo Filho.
 - Material de formatação de roteiro (*E-bookFormatac_a_o.pdf*).
 
-> **Sobre direitos autorais:** este repositório traz apenas referências e links públicos. Não disponibilizo PDFs de cursos nem materiais fechados.
 
 ---
 
