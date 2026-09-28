@@ -130,10 +130,7 @@ Fatos invisíveis	Informações que a rubrica afirma, mas que o espectador não 
 - [x] Organizar uma curadoria de cinco fontes e distinguir material do curso de leituras complementares.
 - [x] Preparar miniguia, glossário e prompts reutilizáveis.
 - [x] Registrar as iterações e os desafios que apareceram nas anotações do projeto.
-- [ ] Conferir que C1–C5 estão carregadas no NotebookLM e anotar a data.
-- [ ] Reexecutar os prompts com a seleção atual e inserir as citações clicáveis e um resumo fiel das respostas.
 - [ ] Revisar os trechos do miniguia à luz das respostas e corrigir eventuais divergências.
-- [ ] Publicar este README no GitHub e inserir a URL do repositório na entrega da DIO.
 Referências
 - C1. Material de Estudo — Apostila Completa do curso Produção Audiovisual, IFG/ESCULT. Arquivo disponibilizado no curso; ver também a página institucional do IFG.
 - C2. MOSS, Hugo. Como formatar o seu roteiro: um pequeno guia de Master Scenes. PDF para consulta na ELCV.
