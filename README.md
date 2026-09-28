@@ -44,7 +44,6 @@ Um modelo simples para começar uma decupagem:
 Cena/plano	O que quero mostrar	Enquadramento	Luz	Arte	Som	O que preparar
 preencher	preencher	preencher	preencher	cenário e objetos	fala e som ambiente	local e equipamento
 
-
 Referências complementares
 - MOURÃO, Maria Dora Genis. A montagem cinematográfica como ato criativo. Significação: Revista de Cultura Audiovisual, 2006. Artigo.
 - E-bookFormatac_a_o.pdf. Material de formatação de roteiro, exclusivo para alunos conforme informação na capa.
